@@ -2,7 +2,7 @@
 
 ```Learning Lad OOPS Playlist```
 
-1. [Introduction] https://www.youtube.com/watch?v=xnh7ip5gpzc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C&index=57
+1. [Introduction] (https://www.youtube.com/watch?v=xnh7ip5gpzc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C&index=57)
 2. [Class Properties] https://www.youtube.com/watch?v=qnCRKjPTnHM&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C&index=58
 3. [Creating Obj in Diff Ways] https://www.youtube.com/watch?v=BsYvWqDihGU&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C&index=59
 4. [Scope Resolution Operator] https://www.youtube.com/watch?v=59fy7la7yEI&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C&index=60
