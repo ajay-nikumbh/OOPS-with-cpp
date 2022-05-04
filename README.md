@@ -1,6 +1,9 @@
 ## OOPS-with-cpp
 
 ```Learning Lad OOPS Playlist```
+S.No. | Topic Name  | Youtube Link  |
+------|-----------------------|---------------|
+1 | Introduction | [Link](https://www.youtube.com/watch?v=xnh7ip5gpzc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C&index=57)
 
 1. [Introduction] (https://www.youtube.com/watch?v=xnh7ip5gpzc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C&index=57)
 2. [Class Properties] https://www.youtube.com/watch?v=qnCRKjPTnHM&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C&index=58
